@@ -1,27 +1,6 @@
 # Project1-aws-3-tier-web-application
 AWS 3-Tier Architecture Project | VPC | EC2 | RDS MariaDB | NAT Gateway | Security Groups | Bastion Host | Web Server | application Server 
-AWS 3-Tier Architecture Deployment
-------------------------------------
-Designed and deployed a secure 3-tier architecture on AWS consisting of a Bastion Host, Web Server, Application Server, and Amazon RDS MariaDB database. The infrastructure leverages VPC networking, public and private subnets, NAT Gateway, Internet Gateway, Route Tables, and Security Groups to implement secure communication between application tiers.
 
-
-This project demonstrates the deployment of a secure 3-tier application architecture on AWS.
-
-The infrastructure consists of:
-
-- Bastion Host
-- Web Tier
-- Application Tier
-- Database Tier
-- NAT Gateway
-- Internet Gateway
-- Security Groups
-- Public and Private Subnets
-
-The architecture follows AWS networking and security best practices.
-
-
-AWS 3-Tier Architecture Deployment
 **Project Overview**
 ______________________________________________________________________________________________________________________
 This project demonstrates the deployment of a secure 3-Tier Architecture on AWS using industry-standard networking and security practices.
@@ -251,26 +230,6 @@ Successful application-to-database communication
 Screenshots attached in a seperate file
 
 ---------------------------------------------------------------------------------------------------------------------------
-
-VPC Configuration
-
-
-
-
-Route Tables
-
-
-
-
-Security Groups
-
-
-
-
-Database Connectivity Test
-
-
-
 
 **Key Learnings**
 
